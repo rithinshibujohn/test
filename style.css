@@ -8,6 +8,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+
+.avg{}
 .navbar
 {
     display: flex;
